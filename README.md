@@ -1,1 +1,1 @@
-# PHQ-9_AD_genetic_overlap_project
+# PHQ-9 AD genetic overlap project
