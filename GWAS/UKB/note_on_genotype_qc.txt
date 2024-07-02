@@ -1,0 +1,9 @@
+# Genotype QC was performed according to the pipeline used in the following publication:
+
+# https://www.nature.com/articles/s41380-019-0546-6
+
+# An example of this QC wrapper script can be found here:
+
+# https://annafurtjes.github.io/Genetic_networks_project/Genetic_qc.html
+
+# For GLAD and PROTECT, QC'd genotype files and files for exclusions were provided by the GLAD and PROTECT data access and study teams
